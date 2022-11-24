@@ -11,7 +11,7 @@ import java.util.*;
 public class Anagrams {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		
 		//Create two string 
 		String a = "secure";
